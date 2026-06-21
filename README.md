@@ -1,1 +1,2 @@
 https://used-car-price-prediction-model-4aq2yqjgbstkhqxsrpp5kd.streamlit.app
+This car resale price predictor is made using python,Jupyter notebook and machine learning models(linear Regression, RandomForests and XGBoost).The dataset is first cleaned and corrected(missing data.. etc) using EDA(Exploratory Data Analysis).Based on r2_score I've decided to set XGBoost as the final model.You can choose between available 15 car brands from the website, with your engine details, purchase year.. etc to check your vehicle's resale price.This app is deployed via streamlit
