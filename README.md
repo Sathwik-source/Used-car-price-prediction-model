@@ -2,7 +2,7 @@
 
 A machine learning web application that predicts the resale price of used cars based on vehicle specifications, ownership history, and market factors. Built with Python and deployed via Streamlit.
 
-## Live Demo
+## Live
 
 🔗 [https://used-car-price-prediction-model-4aq2yqjgbstkhqxsrpp5kd.streamlit.app](https://used-car-price-prediction-model-4aq2yqjgbstkhqxsrpp5kd.streamlit.app)
 
